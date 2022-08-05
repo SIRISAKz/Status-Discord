@@ -1,5 +1,5 @@
 {
-	"token": "token",
-	"name": "name msg show on discord",
-	"twitch": "url twitch"
+	"token": "token", //ใส่ token bot ดิสคอร์ด
+	"name": "name msg show on discord", // อยากให้โชว์อะไรบนสเตตัสก็ใส่ได้เลย
+	"twitch": "url twitch" // ลิ้งค์ต่างๆ 
 }
